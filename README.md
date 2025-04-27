@@ -1,5 +1,5 @@
 # Minus-Set Knowledge and Transactional Economics for Large Language Models (LLMs)
-**Authors:** Roman Kuznetsov (Anthemium Protocol)
+**Authors:** Roman Kuznetsov (Anthemium Protocol), anthemium.com
 
 ---
 
